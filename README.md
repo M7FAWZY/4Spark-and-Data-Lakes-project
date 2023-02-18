@@ -171,11 +171,11 @@ FOR **README.md** BY Markdown use simple guide in *Udacity Workspace* From menu 
 ## test_run.ipynb
 To test code on sample data 
 
-1.download log_data.zip and song_data 
+1.download log_data.zip and song_data.zip 
 
 2.unzip folders
 
-3.create new folders log_data , song-data and output_data
+3.create new folders log_data , song-data and output_data into workspace in folder data
 
 4.upload some files into log_data , song_data with respective to order internal folders and files 
 
